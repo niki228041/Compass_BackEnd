@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Compass\Services\bin\Release\net6.0\Compass.Services.deps.json
+C:\Users\user\source\repos\Compass\Services\bin\Release\net6.0\Compass.Services.dll
+C:\Users\user\source\repos\Compass\Services\bin\Release\net6.0\Compass.Services.pdb
+C:\Users\user\source\repos\Compass\Services\bin\Release\net6.0\Compass.Data.dll
+C:\Users\user\source\repos\Compass\Services\bin\Release\net6.0\Compass.Data.pdb
+C:\Users\user\source\repos\Compass\Services\obj\Release\net6.0\Compass.Services.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Compass\Services\obj\Release\net6.0\Compass.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Compass\Services\obj\Release\net6.0\Compass.Services.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Compass\Services\obj\Release\net6.0\Compass.Services.AssemblyInfo.cs
+C:\Users\user\source\repos\Compass\Services\obj\Release\net6.0\Compass.Services.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Compass\Services\obj\Release\net6.0\Compass.Services.csproj.CopyComplete
+C:\Users\user\source\repos\Compass\Services\obj\Release\net6.0\Compass.Services.dll
+C:\Users\user\source\repos\Compass\Services\obj\Release\net6.0\refint\Compass.Services.dll
+C:\Users\user\source\repos\Compass\Services\obj\Release\net6.0\Compass.Services.pdb
+C:\Users\user\source\repos\Compass\Services\obj\Release\net6.0\ref\Compass.Services.dll
