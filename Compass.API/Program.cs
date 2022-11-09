@@ -106,8 +106,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseCors(options => options
-    .SetIsOriginAllowed(origin => true)
-    //.WithOrigins(new[] { "http://localhost:3000" })
+    //.SetIsOriginAllowed(origin => true)
+     //.WithOrigins(new[] { "http://localhost:3000" })
+    .WithOrigins("http://localhost:3000", "http://localhost:3001", "http://194.44.93.225", "http://10.7.101.243", "http://52.188.227.148", "http://40.76.116.183", "http://192.168.0.104")
     .AllowAnyHeader()
     .AllowCredentials()
     .AllowAnyMethod()
