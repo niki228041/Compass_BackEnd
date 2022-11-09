@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Compass\\Services\\Compass.Services.csproj": {}
+    "C:\\Users\\user\\source\\repos\\Compass\\Compass_BackEnd\\Services\\Compass.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Compass\\Compass.Data\\Compass.Data.csproj": {
+    "C:\\Users\\user\\source\\repos\\Compass\\Compass_BackEnd\\Compass.Data\\Compass.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Compass\\Compass.Data\\Compass.Data.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Compass\\Compass_BackEnd\\Compass.Data\\Compass.Data.csproj",
         "projectName": "Compass.Data",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Compass\\Compass.Data\\Compass.Data.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Compass\\Compass_BackEnd\\Compass.Data\\Compass.Data.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Compass\\Compass.Data\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Compass\\Compass_BackEnd\\Compass.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,14 +97,14 @@
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\Compass\\Services\\Compass.Services.csproj": {
+    "C:\\Users\\user\\source\\repos\\Compass\\Compass_BackEnd\\Services\\Compass.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Compass\\Services\\Compass.Services.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Compass\\Compass_BackEnd\\Services\\Compass.Services.csproj",
         "projectName": "Compass.Services",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Compass\\Services\\Compass.Services.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Compass\\Compass_BackEnd\\Services\\Compass.Services.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Compass\\Services\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Compass\\Compass_BackEnd\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -121,8 +121,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\Compass\\Compass.Data\\Compass.Data.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Compass\\Compass.Data\\Compass.Data.csproj"
+              "C:\\Users\\user\\source\\repos\\Compass\\Compass_BackEnd\\Compass.Data\\Compass.Data.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\Compass\\Compass_BackEnd\\Compass.Data\\Compass.Data.csproj"
               }
             }
           }

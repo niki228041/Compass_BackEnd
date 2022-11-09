@@ -40,3 +40,17 @@ C:\Users\user\source\repos\Compass\Compass.Data\obj\Debug\net6.0\refint\Compass.
 C:\Users\user\source\repos\Compass\Compass.Data\obj\Debug\net6.0\Compass.Data.pdb
 C:\Users\user\source\repos\Compass\Compass.Data\obj\Debug\net6.0\Compass.Data.genruntimeconfig.cache
 C:\Users\user\source\repos\Compass\Compass.Data\obj\Debug\net6.0\ref\Compass.Data.dll
+C:\Users\user\source\repos\Compass\Compass_BackEnd\Compass.Data\bin\Debug\net6.0\Compass.Data.deps.json
+C:\Users\user\source\repos\Compass\Compass_BackEnd\Compass.Data\bin\Debug\net6.0\Compass.Data.runtimeconfig.json
+C:\Users\user\source\repos\Compass\Compass_BackEnd\Compass.Data\bin\Debug\net6.0\Compass.Data.dll
+C:\Users\user\source\repos\Compass\Compass_BackEnd\Compass.Data\bin\Debug\net6.0\Compass.Data.pdb
+C:\Users\user\source\repos\Compass\Compass_BackEnd\Compass.Data\obj\Debug\net6.0\Compass.Data.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Compass\Compass_BackEnd\Compass.Data\obj\Debug\net6.0\Compass.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Compass\Compass_BackEnd\Compass.Data\obj\Debug\net6.0\Compass.Data.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Compass\Compass_BackEnd\Compass.Data\obj\Debug\net6.0\Compass.Data.AssemblyInfo.cs
+C:\Users\user\source\repos\Compass\Compass_BackEnd\Compass.Data\obj\Debug\net6.0\Compass.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Compass\Compass_BackEnd\Compass.Data\obj\Debug\net6.0\Compass.Data.dll
+C:\Users\user\source\repos\Compass\Compass_BackEnd\Compass.Data\obj\Debug\net6.0\refint\Compass.Data.dll
+C:\Users\user\source\repos\Compass\Compass_BackEnd\Compass.Data\obj\Debug\net6.0\Compass.Data.pdb
+C:\Users\user\source\repos\Compass\Compass_BackEnd\Compass.Data\obj\Debug\net6.0\Compass.Data.genruntimeconfig.cache
+C:\Users\user\source\repos\Compass\Compass_BackEnd\Compass.Data\obj\Debug\net6.0\ref\Compass.Data.dll

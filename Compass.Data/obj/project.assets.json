@@ -2388,11 +2388,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Compass\\Compass.Data\\Compass.Data.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Compass\\Compass_BackEnd\\Compass.Data\\Compass.Data.csproj",
       "projectName": "Compass.Data",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Compass\\Compass.Data\\Compass.Data.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\Compass\\Compass_BackEnd\\Compass.Data\\Compass.Data.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Compass\\Compass.Data\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\Compass\\Compass_BackEnd\\Compass.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

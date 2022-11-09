@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v9e6PU2yRcdNfNTluHLVUGUD4R9+ngnVjJ3jdq4eIhCgFvi1/iMuf9rDuLUs7YvHBf8FleTINIwpFpugwhaKUg==",
+  "dgSpecHash": "vjgL+ExWdRNSLXw2B8TZCBzyU5vYtWTUTcU5S3DJFzGOPjxzJnuquKq/GHOeG85uJM4/maCVAsWuw2HdSya2dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\Compass\\Compass.API\\Compass.API.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Compass\\Compass_BackEnd\\Compass.API\\Compass.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

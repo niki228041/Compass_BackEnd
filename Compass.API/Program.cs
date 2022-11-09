@@ -106,10 +106,11 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseCors(options => options
-    .WithOrigins("http://localhost:3000","http://194.44.93.225", "http://40.76.116.183")
+    .SetIsOriginAllowed(origin => true)
     //.WithOrigins(new[] { "http://localhost:3000" })
     .AllowAnyHeader()
     .AllowCredentials()
+    .AllowAnyMethod()
     );
 
 app.UseHttpsRedirection();
